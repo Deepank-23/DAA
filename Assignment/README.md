@@ -1,4 +1,4 @@
-# 📘 DAA Assignment – README
+# 📘 DAA Assignment 1– README
 
 ## 📂 Assignment Overview
 This repository contains solutions for **Assignment 1** of the *Design and Analysis of Algorithms (DAA)* course.  
@@ -14,7 +14,6 @@ Each solution is implemented in **C++** with emphasis on clarity, efficiency, an
 ## 🛠️ Technologies Used
 - **Language:** C++ (GNU/G++ compiler recommended)
 - **IDE/Editor:** Visual Studio Code / Colab / any C++ supported IDE
-- **Libraries:** Standard Template Library (STL)
 
 ---
 
